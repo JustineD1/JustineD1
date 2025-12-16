@@ -1,76 +1,86 @@
-<h1 align="center">Hi 👋, I'm Justine De Juan</h1>
-<h3 align="center">UI/UX Designer • Frontend Developer</h3>
+<h1 align="center">⚡ Justine De Juan</h1>
+<h3 align="center">UI/UX Designer • Frontend Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Age-22-green?style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=500&lines=Designing+Interfaces+for+Humans;Building+Frontend+Experiences;Where+UX+meets+Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-7F5AF0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Frontend-Development-2CB67D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Accessibility-FF8906?style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## 🧬 Profile
 
-I recently graduated from **Davao del Norte State College**, where I honed my skills in **design and development**.
+> **Design-driven frontend developer** focused on building intuitive, accessible, and scalable digital experiences.
 
-I’m a passionate and innovative **UI/UX Designer & Frontend Developer** who loves creating **intuitive, engaging, and user-friendly digital experiences**. I specialize in transforming complex ideas into clean, functional interfaces that delight users and meet project goals.
+🎓 Graduate of **Davao del Norte State College**  
+🧠 Strong in **design thinking + frontend execution**  
+🧩 I turn complex problems into elegant interfaces
 
-I continuously strive to grow my skills and push creative boundaries by blending **design thinking** with **modern frontend development**.
+I believe great products live at the intersection of **clarity, performance, and emotion**.
 
 ---
 
-## 🎨 Design Skills
+## 🎨 Design Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
-- User Interface (UI) Design  
-- User Experience (UX) Design  
+- UI Design & Visual Systems  
+- UX Research & User Flows  
 - Wireframing & Prototyping  
-- Design Systems  
+- Design Systems & Consistency  
 
 ---
 
-## 💻 Development Skills
+## 💻 Frontend Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-- Responsive Web Design  
-- Accessible Web Interfaces  
-- Clean & Maintainable Code  
+- Semantic & Responsive Layouts  
+- Accessibility-First Interfaces  
+- Clean, Maintainable Code  
+- Design-to-Code Translation  
 
 ---
 
-## 🚀 What I Do
+## ⚙️ What I Build
 
-- Transform designs into **responsive and accessible websites**
-- Bridge the gap between **design and development**
-- Create **impactful digital experiences** that feel natural and intuitive
+- ✨ High-fidelity UI → production-ready code  
+- 📱 Responsive, mobile-first experiences  
+- ♿ Accessible interfaces that work for everyone  
+- 🚀 Interfaces optimized for performance & usability  
 
 ---
 
-## 🌱 Currently Growing
+## 🌱 Currently Leveling Up
 
-- Advanced UI/UX principles  
+- Advanced UX patterns & heuristics  
 - Modern frontend frameworks  
-- Better performance & accessibility practices  
+- Web accessibility & performance optimization  
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *"Blending creativity and code to build meaningful experiences."*
+<p align="center">
+  <em>“Design is intelligence made visible. Code is how it comes alive.”</em>
+</p>
