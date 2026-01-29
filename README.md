@@ -70,27 +70,6 @@ I build products where **clarity meets performance**, and **design speaks before
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=7F5AF0&icon_color=2CB67D&text_color=FFFFFE&ring_color=7F5AF0" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0F172A&ring=7F5AF0&fire=FF8906&currStreakLabel=7F5AF0&sideLabels=FFFFFE&currStreakNum=FFFFFE&sideNums=FFFFFE" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=7F5AF0&text_color=FFFFFE&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0F172A&color=7F5AF0&line=2CB67D&point=FF8906&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" alt="Profile Summary" />
-</div>
-
----
 
 ## ⚙️ What I Engineer
 
