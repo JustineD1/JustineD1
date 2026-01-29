@@ -123,15 +123,6 @@ I build products where **clarity meets performance**, and **design speaks before
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/7F5AF0/YOUR_USERNAME" alt="GitHub Contribution Chart" />
-</div>
-
----
-
 <div align="center">
 
 <em>"Design defines the future. Code gives it form."</em>
