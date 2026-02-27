@@ -132,3 +132,13 @@ I build products where **clarity meets performance**, and **design speaks before
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F5AF0&style=flat-square)
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JustineD1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=JustineD1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineD1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+</div>
