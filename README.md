@@ -4,8 +4,7 @@
     
 ### UI/UX Designer • Frontend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=700&color=7F5AF0&center=true&vCenter=true&width=600&lines=Designing+Human-Centered+Interfaces;Engineering+Modern+Frontend+Systems;Accessibility+by+Design;Where+UX+meets+Future+Tech" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=700&color=7F5AF0&center=true&vCenter=true&width=600&lines=Designing+Human-Centered+Interfaces;Engineering+Modern+Fro 
 <br />
 
 <a href="https://justinedejuan.framer.website/" target="_blank">
